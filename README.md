@@ -1,15 +1,13 @@
 # 👋 Hi, I'm Sabbir Ahmed (**sabbirOG**)
-I am currently working on a startup project in the development phase: PawConnect
-- A complete solution and package for Pet HealthTech & Business (under development) 
 
-💻 Aspiring **Software Engineer** | 🌱 Currently Learning **Python & AI/ML**  
+💻 Aspiring **Software Developer** | 🌱 Currently Learning **Python & AI/ML**  
 🚀 Experienced in **Web Development (PHP, MySQL, HTML, CSS, JS)**  
-⚡ Love building projects and exploring business strategies. 
+⚡ Love building projects and exploring new technologies every day  
 
 ---
 
 ## 🛠️ Skills & Currently Learning
-- **Web Dev:** PHP, MySQL, HTML, CSS, JavaScript  
+- **Web Development:** PHP, MySQL, HTML, CSS, JavaScript  
 - **Learning Now:** Python 🐍 | Basics of AI & ML 🤖 | Data Handling 📊  
 - **Other Interests:** Software Development, Exploring new tech stacks  
 
@@ -26,23 +24,21 @@ I am currently working on a startup project in the development phase: PawConnect
 ---
 
 ## 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirOG&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirOG&layout=compact&hide_border=true&theme=tokyonight)
 
 ---
 
 ## 🏆 My Projects
+- (updating soon)
 
-<!-- Projects from GitHub (official Readme Stats) -->
-[![GitHub Projects](https://github-readme-stats.vercel.app/api/pin/?username=sabbirOG&repo=REPO_NAME&theme=tokyonight)](https://github.com/sabbirOG)
+---
 
-> Replace `REPO_NAME` with each repo you want to showcase, or create multiple lines for multiple repos.  
-> Example:
-> ```md
-> [![GitHub Projects](https://github-readme-stats.vercel.app/api/pin/?username=sabbirOG&repo=my-web-app&theme=tokyonight)](https://github.com/sabbirOG/my-web-app)
-> [![GitHub Projects](https://github-readme-stats.vercel.app/api/pin/?username=sabbirOG&repo=another-project&theme=tokyonight)](https://github.com/sabbirOG/another-project)
-> ```
+## 🚀 Startup / Ongoing Projects
 
-> **Note:** Official method requires specifying repos, but it is stable and always works.
+I am currently working on a startup project in the development phase:  
+- PawConnect – A complete solution and package for Pet HealthTech & Business (under development)
+- Focus: Solving real-world problems, leveraging my experience in web development  
+- Tech Stack: PHP, MySQL, HTML, CSS, JavaScript (current), Python & AI/ML (planned)
 
 ---
 
