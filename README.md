@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Sabbir Ahmed (**sabbirOG**)
+I am currently working on a startup project in the development phase: PawConnect
+- A complete solution and package for Pet HealthTech & Business (under development) 
 
-💻 Aspiring **Software Developer** | 🌱 Currently Learning **Python & AI/ML**  
+💻 Aspiring **Software Engineer** | 🌱 Currently Learning **Python & AI/ML**  
 🚀 Experienced in **Web Development (PHP, MySQL, HTML, CSS, JS)**  
-⚡ Love building projects and exploring new technologies every day  
+⚡ Love building projects and exploring business strategies. 
 
 ---
 
