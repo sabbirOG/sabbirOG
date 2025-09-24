@@ -30,9 +30,17 @@
 
 ## 🏆 My Projects
 
-[![GitHub Repos](https://github-readme-show-repos.vercel.app/api?username=sabbirOG&theme=tokyonight)](https://github.com/sabbirOG?tab=repositories)
+<!-- Projects from GitHub (official Readme Stats) -->
+[![GitHub Projects](https://github-readme-stats.vercel.app/api/pin/?username=sabbirOG&repo=REPO_NAME&theme=tokyonight)](https://github.com/sabbirOG)
 
-> All public repositories are showcased here automatically. New projects will appear as you push them.  
+> Replace `REPO_NAME` with each repo you want to showcase, or create multiple lines for multiple repos.  
+> Example:
+> ```md
+> [![GitHub Projects](https://github-readme-stats.vercel.app/api/pin/?username=sabbirOG&repo=my-web-app&theme=tokyonight)](https://github.com/sabbirOG/my-web-app)
+> [![GitHub Projects](https://github-readme-stats.vercel.app/api/pin/?username=sabbirOG&repo=another-project&theme=tokyonight)](https://github.com/sabbirOG/another-project)
+> ```
+
+> **Note:** Official method requires specifying repos, but it is stable and always works.
 
 ---
 
