@@ -1,19 +1,21 @@
-<!-- Banner / Typing Effect -->
-<h1 align="center">👋 Hi, I'm <a href="https://github.com/sabbirOG">Sabbir Ahmed</a> (aka <b>sabbirOG</b>)</h1>
+<!-- ========================= -->
+<!-- Typing Header -->
+<!-- ========================= -->
+<h1 align="center">👋 Hi, I'm Sabbir Ahmed (aka <b>sabbirOG</b>)</h1>
 <h3 align="center">
 💻 Aspiring Software Developer | 🌱 Exploring Python & AI/ML | 🚀 Tech Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2360A5FA&lines=Full+Stack+Web+Developer;Aspiring+AI%2FML+Engineer;Always+learning+new+things;Building+real-world+projects+🚀&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2360A5FA&lines=Full+Stack+Developer;Aspiring+AI%2FML+Engineer;Always+Learning+and+Building;Building+Real-World+Projects+🚀&center=true&width=500&height=45" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 - 🌱 Currently learning **Python, AI/ML, Data Handling**
-- 💻 Experienced with **PHP, MySQL, HTML, CSS, JS**
-- 🚀 Passionate about **software development & startups**
+- 💻 Experienced in **PHP, MySQL, HTML, CSS, JavaScript**
+- 🚀 Passionate about **software development, startups & real-world projects**
 - ⚡ Motto: *“Code. Learn. Build. Repeat.”*
 
 ---
@@ -46,9 +48,9 @@
 ---
 
 ## 🚀 Startup & Ongoing Projects
-- 🐾 **PawConnect** – A HealthTech & Business platform for pets *(under development)*  
-- 🎯 **Focus:** Real-world problem solving using modern tech  
-- 🛠️ **Stack:** PHP, MySQL, HTML, CSS, JavaScript (current) → Python & AI/ML (planned)  
+- 🐾 **PawConnect** – HealthTech & Business platform for pets *(under development)*  
+- 🎯 **Focus:** Solving real-world problems using technology  
+- 🛠️ **Tech Stack:** PHP, MySQL, HTML, CSS, JS (current), Python & AI/ML (planned)  
 
 ---
 
@@ -74,3 +76,7 @@
   <!-- Hits Counter -->
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sabbirOG/&title=Profile%20Views" alt="Hits"/>
 </p>
+
+---
+
+✨ _“Code. Learn. Build. Repeat.”_ 🚀
