@@ -39,18 +39,18 @@
 
 ---
 
-## 📊 GitHub Stats & Languages
+## 📊 GitHub Stats & Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabbirOG&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirOG&layout=compact&hide_border=true&theme=tokyonight&border_radius=10" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sabbirOG&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirOG&layout=compact&hide_border=true&theme=tokyonight&border_radius=10" alt="Top Languages" height="165"/>
 </p>
 
 ---
 
 ## 🚀 Startup & Ongoing Projects
-- 🐾 **PawConnect** – HealthTech & Complete platform for pets *(under development)*  
+- 🐾 **PawConnect** – HealthTech & complete platform for pets *(under development)*  
 - 🎯 **Focus:** Solving real-world problems using technology  
-- 🛠️ **Tech Stack:** PHP, MySQL, HTML, CSS, JS (current), Python & AI/ML (planned)  
+- 🛠️ **Tech Stack:** PHP, MySQL, HTML, CSS, JS (current); Python & AI/ML (planned)  
 
 ---
 
@@ -61,15 +61,17 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://github.com/sabbirOG"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/sabbirgg/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/> </a>
+  <a href="https://github.com/sabbirOG" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sabbirgg/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/> </a>
 </p>
 
 ---
 
 ## 👀 Profile Views
-  ![](https://komarev.com/ghpvc/?username=sabbirOG)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sabbirOG" alt="Profile Views"/>
+</p>
 
 ---
 
