@@ -69,13 +69,11 @@
 ---
 
 ## 👀 Profile Views
+
 <p align="center">
-  <!-- Visitor Badge -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sabbirOG.sabbirOG" alt="visitor badge"/>
-  
-  <!-- Hits Counter -->
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sabbirOG/&title=Profile%20Views" alt="Hits"/>
 </p>
+
 
 ---
 
