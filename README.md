@@ -1,48 +1,72 @@
-# 👋 Hi, I'm Sabbir Ahmed (**sabbirOG**)
+<!-- Banner / Typing Effect -->
+<h1 align="center">👋 Hi, I'm <a href="https://github.com/sabbirOG">Sabbir Ahmed</a> (aka <b>sabbirOG</b>)</h1>
+<h3 align="center">
+💻 Aspiring Software Developer | 🌱 Exploring Python & AI/ML | 🚀 Tech Enthusiast
+</h3>
 
-💻 Aspiring **Software Developer** | 🌱 Currently Learning **Python & AI/ML**  
-🚀 Experienced in **Web Development (PHP, MySQL, HTML, CSS, JS)**  
-⚡ Love building projects and exploring new technologies every day  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2360A5FA&lines=Full+Stack+Web+Developer;Aspiring+AI%2FML+Engineer;Always+learning+new+things;Building+real-world+projects+🚀&center=true&width=500&height=45" />
+</p>
 
 ---
 
-## 🛠️ Skills & Currently Learning
-- **Web Development:** PHP, MySQL, HTML, CSS, JavaScript  
-- **Learning Now:** Python 🐍 | Basics of AI & ML 🤖 | Data Handling 📊  
-- **Other Interests:** Software Development, Exploring new tech stacks  
+## 🧑‍💻 About Me
+- 🌱 Currently learning **Python, AI/ML, Data Handling**
+- 💻 Experienced with **PHP, MySQL, HTML, CSS, JS**
+- 🚀 Passionate about **software development & startups**
+- ⚡ Motto: *“Code. Learn. Build. Repeat.”*
+
+---
+
+## 🛠️ Tech Stack & Tools
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sabbirOG&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sabbirOG&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![Sabbir's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabbirOG&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats & Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sabbirOG&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirOG&layout=compact&hide_border=true&theme=tokyonight&border_radius=10" height="165"/>
+</p>
 
 ---
 
-## 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirOG&layout=compact&hide_border=true&theme=tokyonight)
+## 🚀 Startup & Ongoing Projects
+- 🐾 **PawConnect** – A HealthTech & Business platform for pets *(under development)*  
+- 🎯 **Focus:** Real-world problem solving using modern tech  
+- 🛠️ **Stack:** PHP, MySQL, HTML, CSS, JavaScript (current) → Python & AI/ML (planned)  
 
 ---
 
-## 🏆 My Projects
-- (updating soon)
+## 🌟 Featured Projects
+🚧 Coming Soon... Stay tuned!  
 
 ---
 
-## 🚀 Startup / Ongoing Projects
-
-I am currently working on a startup project in the development phase:  
-- PawConnect – A complete solution and package for Pet HealthTech & Business (under development)
-- Focus: Solving real-world problems, leveraging my experience in web development  
-- Tech Stack: PHP, MySQL, HTML, CSS, JavaScript (current), Python & AI/ML (planned)
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/sabbirOG"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sabbirgg/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/> </a>
+</p>
 
 ---
 
-## 🌐 Connect with Me
-- GitHub: [sabbirOG](https://github.com/sabbirOG)  
-- LinkedIn: [Sabbir Ahmed](https://www.linkedin.com/in/sabbirgg/)  
-- Portfolio: *(Coming Soon 🚀)*  
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=sabbirOG&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
