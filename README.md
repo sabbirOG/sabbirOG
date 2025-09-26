@@ -20,7 +20,6 @@
 
 ## 🛠️ Tech Stack & Tools
 <p align="center">
-  <!-- Languages -->
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -67,6 +66,11 @@
 
 ---
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=sabbirOG&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+## 👀 Profile Views
+<p align="center">
+  <!-- Visitor Badge -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sabbirOG.sabbirOG" alt="visitor badge"/>
+  
+  <!-- Hits Counter -->
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sabbirOG/&title=Profile%20Views" alt="Hits"/>
 </p>
