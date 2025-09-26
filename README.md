@@ -68,11 +68,7 @@
 
 ---
 ## 👀 Profile Views
-
-<p align="center">
 ![](https://komarev.com/ghpvc/?username=sabbirOG)
-
-</p>
 
 
 
