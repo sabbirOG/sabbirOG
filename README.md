@@ -3,7 +3,7 @@
 <!-- ========================= -->
 <h1 align="center">👋 Hi, I'm Sabbir Ahmed (aka <b>sabbirOG</b>)</h1>
 <h3 align="center">
-💻 Aspiring Software Developer | 🌱 Exploring Python & AI/ML | 🚀 Tech Enthusiast
+💻 Aspiring Software Engineer | 🌱 Exploring Python & AI/ML | 🚀 Research & Business
 </h3>
 
 <p align="center">
@@ -48,7 +48,7 @@
 ---
 
 ## 🚀 Startup & Ongoing Projects
-- 🐾 **PawConnect** – HealthTech & Business platform for pets *(under development)*  
+- 🐾 **PawConnect** – HealthTech & Complete platform for pets *(under development)*  
 - 🎯 **Focus:** Solving real-world problems using technology  
 - 🛠️ **Tech Stack:** PHP, MySQL, HTML, CSS, JS (current), Python & AI/ML (planned)  
 
