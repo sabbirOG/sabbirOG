@@ -75,4 +75,4 @@
 
 ---
 
-✨ _“Code. Learn. Build. Repeat.”_ 🚀
+✨ _“I am a learner”_ 🚀
