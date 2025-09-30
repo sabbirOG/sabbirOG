@@ -16,7 +16,7 @@
 - 🌱 Currently learning **Python, AI/ML, Data Handling**
 - 💻 Experienced in **PHP, MySQL, HTML, CSS, JavaScript**
 - 🚀 Passionate about **software development, startups & real-world projects**
-- ⚡ Motto: *“Code. Learn. Build. Repeat.”*
+- ⚡ Motto: *“Beliveing. that. I. can. make. it. solo.”*
 
 ---
 
