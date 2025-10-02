@@ -5,6 +5,9 @@
 <h3 align="center">
 💻 Aspiring Software Engineer | 🌱 Exploring Python & AI/ML | 🚀 Research & Business
 </h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sabbirOG" alt="Profile Views"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2360A5FA&lines=Full+Stack+Developer;Always+Learning+and+Building;Building+Real-World+Projects+🚀&center=true&width=500&height=45" />
