@@ -66,11 +66,4 @@
 
 ---
 
-## 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sabbirOG" alt="Profile Views"/>
-</p>
-
----
-
 ✨ _“I am a learner”_ 🚀
