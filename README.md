@@ -25,14 +25,17 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,python,git,github,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,python,git,github,vscode,figma&perline=6" />
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sabbirOG&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+  <img 
+       src="https://streak-stats.demolab.com?user=sabbirOG&theme=tokyonight&hide_border=true&border_radius=10" 
+       alt="GitHub Streak" 
+  />
 </p>
 
 ---
