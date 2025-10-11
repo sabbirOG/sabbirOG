@@ -5,7 +5,6 @@
 <h3 align="center">
 💻 Aspiring Software Engineer | 🌱 Exploring Python & AI/ML | 🚀 Research & Business
 </h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sabbirOG" alt="Profile Views"/>
 </p>
@@ -20,7 +19,7 @@
 - 🌱 Currently learning **Python, AI/ML, Data Handling**
 - 💻 Experienced in **PHP, MySQL, HTML, CSS, JavaScript**
 - 🚀 Passionate about **software development, startups & real-world projects**
-- ⚡ Motto: *“Believing that I can make it solo.”*
+- ⚡ Motto: *“Beliveing that I can make it solo.”*
 
 ---
 
@@ -33,13 +32,10 @@
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img 
-         src="https://streak-stats.demolab.com?user=sabbirOG&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&fire=DD2727" 
-         alt="GitHub Streak" 
-         height="165"
-    />
-  </a>
+  <img 
+       src="https://streak-stats.demolab.com?user=sabbirOG&theme=tokyonight&hide_border=true&border_radius=10" 
+       alt="GitHub Streak" 
+  />
 </p>
 
 ---
@@ -60,26 +56,15 @@
 ---
 
 ## 🌟 Featured Projects
-<p align="center">
-  <a href="https://linkuiu.infinityfreeapp.com/" target="_blank">
-    <img src="https://img.shields.io/badge/🔗%20OrangeRoute-Explore%20Now-orange?style=for-the-badge" alt="OrangeRoute"/>
-  </a>
-  <br>
-  <i>🚍 A smart shuttle tracking & route management platform for UIU students.</i>
-</p>
-
-<p align="center">
-  <a href="https://sabbirog.github.io/PharmaCure/" target="_blank">
-    <img src="https://img.shields.io/badge/💊%20PharmaCure-Open%20Project-blueviolet?style=for-the-badge" alt="PharmaCure"/>
-  </a>
-  <br>
-  <i>🏥 A modern pharmacy management system for prescription and inventory handling.</i>
-</p>
+🚧 Coming Soon... Stay tuned!  
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
+  <a href="https://github.com/sabbirOG" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sabbirgg/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/> </a>
   <a href="https://github.com/sabbirOG" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -93,4 +78,4 @@
 
 ---
 
-✨ _“I am a learner.”_ 🚀
+✨ _“I am a learner”_ 🚀
