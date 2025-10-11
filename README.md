@@ -5,6 +5,7 @@
 <h3 align="center">
 💻 Aspiring Software Engineer | 🌱 Exploring Python & AI/ML | 🚀 Research & Business
 </h3>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sabbirOG" alt="Profile Views"/>
 </p>
@@ -19,7 +20,7 @@
 - 🌱 Currently learning **Python, AI/ML, Data Handling**
 - 💻 Experienced in **PHP, MySQL, HTML, CSS, JavaScript**
 - 🚀 Passionate about **software development, startups & real-world projects**
-- ⚡ Motto: *“Beliveing that I can make it solo.”*
+- ⚡ Motto: *“Believing that I can make it solo.”*
 
 ---
 
@@ -56,7 +57,21 @@
 ---
 
 ## 🌟 Featured Projects
-🚧 Coming Soon... Stay tuned!  
+<p align="center">
+  <a href="https://linkuiu.infinityfreeapp.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🔗%20OrangeRoute-Explore%20Now-orange?style=for-the-badge" alt="OrangeRoute"/>
+  </a>
+  <br>
+  <i>🚍 A smart shuttle tracking & route management platform for UIU students.</i>
+</p>
+
+<p align="center">
+  <a href="https://sabbirog.github.io/PharmaCure/" target="_blank">
+    <img src="https://img.shields.io/badge/💊%20PharmaCure-Open%20Project-blueviolet?style=for-the-badge" alt="PharmaCure"/>
+  </a>
+  <br>
+  <i>🏥 A modern pharmacy management system for prescription and inventory handling.</i>
+</p>
 
 ---
 
@@ -75,4 +90,4 @@
 
 ---
 
-✨ _“I am a learner”_ 🚀
+✨ _“I am a learner.”_ 🚀
