@@ -33,21 +33,27 @@
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img 
-         src="https://streak-stats.demolab.com?user=sabbirOG&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&date_format=j%20M%5B%20Y%5D&border_radius=10&fire=DD2727&cache_seconds=10" 
-         alt="GitHub Streak" 
-         height="165"
-    />
-  </a>
+  <img 
+       src="https://streak-stats.demolab.com?user=sabbirOG&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&date_format=j%20M%5B%20Y%5D&border_radius=10&fire=DD2727" 
+       alt="GitHub Streak" 
+       height="165"
+  />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabbirOG&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirOG&layout=compact&hide_border=true&theme=tokyonight&border_radius=10&langs_count=8&hide=cmake,shell" alt="Top Languages" height="165"/>
+  <img 
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=sabbirOG&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" 
+       alt="GitHub Stats" 
+       height="165"
+  />
+  <img 
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sabbirOG&layout=compact&hide_border=true&theme=tokyonight&border_radius=10&langs_count=8&hide=cmake,shell" 
+       alt="Top Languages" 
+       height="165"
+  />
 </p>
 
 ---
