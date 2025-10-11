@@ -1,32 +1,32 @@
 <!-- ========================= -->
-<!-- Typing Header -->
+<!-- 👋 Header -->
 <!-- ========================= -->
-<h1 align="center">👋 Hi, I'm Sabbir Ahmed (aka <b>sabbirOG</b>)</h1>
+<h1 align="center">Hi, I'm Sabbir Ahmed (aka <b>sabbirOG</b>) 👋</h1>
 <h3 align="center">
-💻 Aspiring Software Engineer | 🌱 Exploring Python & AI/ML | 🚀 Research & Business
+💻 Aspiring Software Engineer | 🌱 Exploring Python & AI/ML | 🚀 Research & Business Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sabbirOG" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=sabbirOG&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2360A5FA&lines=Full+Stack+Developer;Always+Learning+and+Building;Building+Real-World+Projects+🚀&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2360A5FA&lines=Full+Stack+Developer;Always+Learning+and+Building;Building+Real-World+Projects+🚀;Turning+Ideas+into+Reality!&center=true&width=500&height=45" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
-- 🌱 Currently learning **Python, AI/ML, Data Handling**
-- 💻 Experienced in **PHP, MySQL, HTML, CSS, JavaScript**
-- 🚀 Passionate about **software development, startups & real-world projects**
+- 🌱 Currently exploring **Python, AI/ML, and Data Handling**  
+- 💻 Skilled in **PHP, MySQL, HTML, CSS, JavaScript**  
+- 🚀 Passionate about **software development, startups & solving real-world problems**  
 - ⚡ Motto: *“Believing that I can make it solo.”*
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,python,git,github,vscode,figma&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,git,github,vscode,figma&perline=6" />
 </p>
 
 ---
@@ -44,7 +44,7 @@
 
 ---
 
-## 📊 GitHub Stats & Top Languages
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sabbirOG&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirOG&layout=compact&hide_border=true&theme=tokyonight&border_radius=10&langs_count=8&hide=cmake,shell" alt="Top Languages" height="165"/>
@@ -55,25 +55,31 @@
 ## 🚀 Startup & Ongoing Projects
 - 🐾 **PawConnect** – HealthTech & complete platform for pets *(under development)*  
 - 🎯 **Focus:** Solving real-world problems using technology  
-- 🛠️ **Tech Stack:** PHP, MySQL, HTML, CSS, JS (current); Python & AI/ML (planned)  
+- 🧠 **Current Stack:** PHP, MySQL, HTML, CSS, JS  
+- 🤖 **Learning Path:** Python & AI/ML  
 
 ---
 
 ## 🌟 Featured Projects
+
+### 🔗 [OrangeRoute](https://linkuiu.infinityfreeapp.com/)
+> 🚍 A smart shuttle tracking and route management platform for **UIU students**.  
+> Built with **PHP, MySQL, JS, HTML, CSS**.  
 <p align="center">
   <a href="https://linkuiu.infinityfreeapp.com/" target="_blank">
-    <img src="https://img.shields.io/badge/🔗%20OrangeRoute-Explore%20Now-orange?style=for-the-badge" alt="OrangeRoute"/>
+    <img src="https://img.shields.io/badge/🔗%20Explore%20OrangeRoute-orange?style=for-the-badge" alt="OrangeRoute Badge"/>
   </a>
-  <br>
-  <i>🚍 A smart shuttle tracking & route management platform for UIU students.</i>
 </p>
 
+---
+
+### 💊 [PharmaCure](https://sabbirog.github.io/PharmaCure/)
+> 🏥 A modern **pharmacy management system** for prescription and inventory handling.  
+> Developed using **Vanilla JS, HTML, CSS**.  
 <p align="center">
   <a href="https://sabbirog.github.io/PharmaCure/" target="_blank">
-    <img src="https://img.shields.io/badge/💊%20PharmaCure-Open%20Project-blueviolet?style=for-the-badge" alt="PharmaCure"/>
+    <img src="https://img.shields.io/badge/💊%20Open%20PharmaCure-blueviolet?style=for-the-badge" alt="PharmaCure Badge"/>
   </a>
-  <br>
-  <i>🏥 A modern pharmacy management system for prescription and inventory handling.</i>
 </p>
 
 ---
