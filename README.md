@@ -33,10 +33,13 @@
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img 
-       src="https://streak-stats.demolab.com?user=sabbirOG&theme=tokyonight&hide_border=true&border_radius=10" 
-       alt="GitHub Streak" 
-  />
+  <a href="https://git.io/streak-stats">
+    <img 
+         src="https://streak-stats.demolab.com?user=sabbirOG&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&fire=DD2727" 
+         alt="GitHub Streak" 
+         height="165"
+    />
+  </a>
 </p>
 
 ---
@@ -90,4 +93,4 @@
 
 ---
 
-✨ _“I am a learner.”_ 🚀 the streak has been broken, fixed it please 
+✨ _“I am a learner.”_ 🚀
