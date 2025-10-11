@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sabbirOG" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=sabbirOG&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 <p align="center">
@@ -33,10 +33,13 @@
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img 
-       src="https://streak-stats.demolab.com?user=sabbirOG&theme=tokyonight&hide_border=true&border_radius=10" 
-       alt="GitHub Streak" 
-  />
+  <a href="https://git.io/streak-stats">
+    <img 
+         src="https://streak-stats.demolab.com?user=sabbirOG&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" 
+         alt="GitHub Streak" 
+         height="165"
+    />
+  </a>
 </p>
 
 ---
