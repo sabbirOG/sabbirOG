@@ -66,30 +66,6 @@
 
 ---
 
-## 🌟 Featured Projects
-
-### 🔗 [OrangeRoute](https://linkuiu.infinityfreeapp.com/)
-> 🚍 A smart shuttle tracking and route management platform for **UIU students**.  
-> Built with **PHP, MySQL, JS, HTML, CSS**.  
-<p align="center">
-  <a href="https://linkuiu.infinityfreeapp.com/" target="_blank">
-    <img src="https://img.shields.io/badge/🔗%20Explore%20OrangeRoute-orange?style=for-the-badge" alt="OrangeRoute Badge"/>
-  </a>
-</p>
-
----
-
-### 💊 [PharmaCure](https://sabbirog.github.io/PharmaCure/)
-> 🏥 A modern **pharmacy management system** for prescription and inventory handling.  
-> Developed using **Vanilla JS, HTML, CSS**.  
-<p align="center">
-  <a href="https://sabbirog.github.io/PharmaCure/" target="_blank">
-    <img src="https://img.shields.io/badge/💊%20Open%20PharmaCure-blueviolet?style=for-the-badge" alt="PharmaCure Badge"/>
-  </a>
-</p>
-
----
-
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://github.com/sabbirOG" target="_blank">
