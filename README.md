@@ -7,10 +7,6 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sabbirOG&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2360A5FA&lines=Full+Stack+Developer;Always+Learning+and+Building;Building+Real-World+Projects+🚀;Turning+Ideas+into+Reality!&center=true&width=500&height=45" />
 </p>
 
@@ -81,4 +77,4 @@
 
 ---
 
-✨ _“I am a learner.”_ 🚀
+✨ _“Life is all about pleasure and peace.”_ 🚀
