@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2360A5FA&lines=Full+Stack+Developer;Always+Learning+and+Building;Building+Real-World+Projects+🚀;Turning+Ideas+into+Reality!&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2360A5FA&lines=FrontEnd+Developer;Always+Learning+and+Building;Building+Real-World+Projects+🚀;Turning+Ideas+into+Reality!&center=true&width=500&height=45" />
 </p>
 
 ---
