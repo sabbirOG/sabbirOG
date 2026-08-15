@@ -40,16 +40,17 @@ amar jonne eta ektu modify kore dao to , ar ektu modern way te, design shundar v
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img 
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=sabbirOG&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" 
-       alt="GitHub Stats" 
-       height="165"
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sabbirOG&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true"
+    alt="GitHub Stats"
+    height="165"
   />
-  <img 
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sabbirOG&layout=compact&hide_border=true&theme=tokyonight&border_radius=10&langs_count=8&hide=cmake,shell" 
-       alt="Top Languages" 
-       height="165"
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirOG&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8&hide=cmake,shell"
+    alt="Top Languages"
+    height="165"
   />
 </p>
 
