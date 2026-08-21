@@ -71,7 +71,7 @@
   <a href="https://www.linkedin.com/in/sabbirgg/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://sabbir-ahmed-portfolio.netlify.app/" target="_blank">
+  <a href="https://sabbirahmed.me/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
