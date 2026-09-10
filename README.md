@@ -1,25 +1,71 @@
-# Hi, I'm Sabbir Ahmed 👋
+<!-- =========================================================
+     SABBIR AHMED — GITHUB PROFILE README
+     GitHub   : https://github.com/sabbirOG
+     LinkedIn : https://www.linkedin.com/in/sabbirahmedmunna
+     ========================================================= -->
 
 <div align="center">
 
-### Product Builder • Software Enthusiast • AI Explorer
+<!-- ============================ HERO ============================ -->
 
-Building useful products, exploring technology, and turning ideas into real-world solutions.
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=SABBIR%20AHMED&fontSize=54&fontAlignY=40&fontColor=FFFFFF&animation=fadeIn&color=0:0F172A,35:2563EB,70:7C3AED,100:EC4899"
+  width="100%"
+  alt="Sabbir Ahmed"
+/>
 
 <br/>
 
+<img
+  src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/trust%20me.gif"
+  width="190"
+  alt="Trust Me"
+/>
+
+<br/><br/>
+
+<img
+  src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=22&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=900&height=50&lines=Product+Builder+%7C+AI+%7C+Software;Turning+ideas+into+useful+products;Building%2C+learning%2C+and+shipping;Technology+with+a+purpose"
+  alt="Typing Introduction"
+/>
+
+<br/><br/>
+
+<img
+  src="https://img.shields.io/badge/PRODUCT-2563EB?style=for-the-badge&labelColor=0B1120"
+  alt="Product"
+/>
+
+<img
+  src="https://img.shields.io/badge/AI%20%26%20ML-7C3AED?style=for-the-badge&labelColor=0B1120"
+  alt="AI and ML"
+/>
+
+<img
+  src="https://img.shields.io/badge/SOFTWARE-EC4899?style=for-the-badge&labelColor=0B1120"
+  alt="Software"
+/>
+
+<br/><br/>
+
 <a href="https://github.com/sabbirOG">
-  <img src="https://img.shields.io/badge/GitHub-sabbirOG-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/GitHub-sabbirOG-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
 </a>
 
 <a href="https://www.linkedin.com/in/sabbirahmedmunna">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
 <br/><br/>
 
 <img
-  src="https://komarev.com/ghpvc/?username=sabbirOG&style=flat-square&color=6366F1&label=Profile+Views"
+  src="https://komarev.com/ghpvc/?username=sabbirOG&style=flat-square&color=6366F1&label=PROFILE+VIEWS"
   alt="Profile Views"
 />
 
@@ -29,9 +75,9 @@ Building useful products, exploring technology, and turning ideas into real-worl
 
 ## 👨‍💻 About Me
 
-I'm a **product-minded developer** interested in the intersection of **technology, AI, software, and real-world problem solving**.
+I'm **Sabbir Ahmed**, a product-minded developer interested in the intersection of **technology, AI, software, and real-world problem solving**.
 
-I enjoy taking ideas through the complete journey:
+I enjoy taking ideas from:
 
 <div align="center">
 
@@ -39,9 +85,11 @@ I enjoy taking ideas through the complete journey:
 
 </div>
 
-I like working on projects that combine **technical execution with product thinking** — understanding the problem, building the solution, and continuously improving it.
+I like working on projects where **technical execution and product thinking come together** — understanding a problem, building a solution, and improving it through iteration.
 
 ---
+
+<!-- ========================== TECH STACK ======================= -->
 
 <div align="center">
 
@@ -105,6 +153,8 @@ I like working on projects that combine **technical execution with product think
 
 ---
 
+<!-- ========================== FOCUS AREAS ====================== -->
+
 <div align="center">
 
 ## 🎯 Focus Areas
@@ -149,9 +199,11 @@ Problem Solving
 
 ---
 
-## 🌱 Interests
+<!-- ========================== INTERESTS ======================== -->
 
 <div align="center">
+
+## 🌱 Interests
 
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-6366F1?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=flat-square&logoColor=white" />
@@ -164,95 +216,53 @@ Problem Solving
 
 ---
 
-## 🧠 How I Build
+<!-- ============================ CONNECT ======================== -->
 
 <div align="center">
 
-<table>
-<tr>
+## 🌐 Connect With Me
 
-<td align="center" width="20%">
+<br/>
 
-### 01
+<a href="https://github.com/sabbirOG">
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
 
-💡
-
-**Think**
-
-Understand the problem.
-
-</td>
-
-<td align="center" width="20%">
-
-### 02
-
-🔎
-
-**Explore**
-
-Research possibilities.
-
-</td>
-
-<td align="center" width="20%">
-
-### 03
-
-⚙️
-
-**Build**
-
-Create the solution.
-
-</td>
-
-<td align="center" width="20%">
-
-### 04
-
-🧪
-
-**Improve**
-
-Test and iterate.
-
-</td>
-
-<td align="center" width="20%">
-
-### 05
-
-🚀
-
-**Ship**
-
-Make it real.
-
-</td>
-
-</tr>
-</table>
+<a href="https://www.linkedin.com/in/sabbirahmedmunna">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
 
 </div>
 
 ---
 
-## 🚀 Current Direction
+<!-- ============================ FOOTER ======================== -->
 
-I'm interested in building technology that is **useful, practical, and capable of solving real problems**.
+<div align="center">
 
-```text
-Problem
-   ↓
-Idea
-   ↓
-Prototype
-   ↓
-Build
-   ↓
-Learn
-   ↓
-Improve
-   ↓
-Ship
+<br/>
+
+<img
+  src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=18&duration=3000&pause=1100&color=6366F1&center=true&vCenter=true&width=650&height=40&lines=Always+learning.;Always+building.;Always+improving."
+  alt="Closing Animation"
+/>
+
+<br/><br/>
+
+### Build. Learn. Iterate. 🚀
+
+<br/>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:EC4899,30:7C3AED,65:2563EB,100:0F172A"
+  width="100%"
+  alt="Footer"
+/>
+
+</div>
