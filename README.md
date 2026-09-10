@@ -110,50 +110,6 @@ I'm especially interested in technology that can solve real problems and create 
 
 ---
 
-<div align="center">
-
-## 🎯 Areas of Interest
-
-<table>
-<tr>
-
-<td align="center" width="33%">
-
-### 🤖 AI
-
-Machine Learning  
-Computer Vision  
-AI Applications
-
-</td>
-
-<td align="center" width="33%">
-
-### 💻 Software
-
-Web Development  
-Backend Systems  
-Automation
-
-</td>
-
-<td align="center" width="33%">
-
-### 🚀 Product
-
-Product Development  
-Prototyping  
-Problem Solving
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
 ## 🌱 Currently Exploring
 
 <div align="center">
