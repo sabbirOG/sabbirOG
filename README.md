@@ -40,6 +40,24 @@
 
 ---
 
+## 🚀 My GitHub in Space
+
+<p align="center">
+  <img
+    src="./game.gif"
+    alt="My GitHub Space Shooter"
+    width="900"
+  />
+</p>
+
+<p align="center">
+  🚀 <b>Every contribution becomes an enemy.</b><br>
+  👨‍💻 <b>Every commit keeps the ship alive.</b><br>
+  🔥 <b>Keep coding. Keep shooting.</b>
+</p>
+
+---
+
 ## 🔥 GitHub Streak
 
 <p align="center">
