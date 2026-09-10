@@ -1,95 +1,56 @@
-<!-- =========================================================
-     SABBIR AHMED — GITHUB PROFILE README
-     GitHub   : https://github.com/sabbirOG
-     LinkedIn : https://www.linkedin.com/in/sabbirahmedmunna
-     ========================================================= -->
-
 <div align="center">
 
-<!-- ============================ HERO ============================ -->
+# Sabbir Ahmed
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=SABBIR%20AHMED&fontSize=54&fontAlignY=40&fontColor=FFFFFF&animation=fadeIn&color=0:0F172A,35:2563EB,70:7C3AED,100:EC4899"
-  width="100%"
-  alt="Sabbir Ahmed"
-/>
+### Product Builder · Software · AI
+
+Building practical products, learning new technologies, and turning ideas into useful solutions.
 
 <br/>
 
 <img
-  src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/trust%20me.gif"
-  width="190"
-  alt="Trust Me"
-/>
-
-<br/><br/>
-
-<img
-  src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=22&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=900&height=50&lines=Product+Builder+%7C+AI+%7C+Software;Turning+ideas+into+useful+products;Building%2C+learning%2C+and+shipping;Technology+with+a+purpose"
-  alt="Typing Introduction"
-/>
-
-<br/><br/>
-
-<img
-  src="https://img.shields.io/badge/PRODUCT-2563EB?style=for-the-badge&labelColor=0B1120"
-  alt="Product"
-/>
-
-<img
-  src="https://img.shields.io/badge/AI%20%26%20ML-7C3AED?style=for-the-badge&labelColor=0B1120"
-  alt="AI and ML"
-/>
-
-<img
-  src="https://img.shields.io/badge/SOFTWARE-EC4899?style=for-the-badge&labelColor=0B1120"
-  alt="Software"
+  src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&height=35&lines=Building+ideas+into+products;Exploring+AI+and+software;Learning+by+building;Always+improving"
+  alt="Animated introduction"
 />
 
 <br/><br/>
 
 <a href="https://github.com/sabbirOG">
-  <img
-    src="https://img.shields.io/badge/GitHub-sabbirOG-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
+<img
+  src="https://img.shields.io/badge/GitHub-sabbirOG-181717?style=for-the-badge&logo=github&logoColor=white"
+  alt="GitHub"
+/>
 </a>
 
 <a href="https://www.linkedin.com/in/sabbirahmedmunna">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
+<img
+  src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  alt="LinkedIn"
+/>
 </a>
 
-<br/><br/>
-
+<a href="mailto:YOUR_EMAIL@example.com">
 <img
-  src="https://komarev.com/ghpvc/?username=sabbirOG&style=flat-square&color=6366F1&label=PROFILE+VIEWS"
-  alt="Profile Views"
+  src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+  alt="Email"
 />
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm **Sabbir Ahmed**, a product-minded developer interested in the intersection of **technology, AI, software, and real-world problem solving**.
+I'm a **product-minded developer** interested in the intersection of **software, artificial intelligence, and product development**.
 
-I enjoy taking ideas from:
+I enjoy taking an idea from a simple concept to a working solution:
 
-<div align="center">
+**Idea → Build → Test → Improve**
 
-**💡 Idea → 🔎 Research → 🎨 Design → ⚙️ Build → 🧪 Test → 🚀 Ship**
-
-</div>
-
-I like working on projects where **technical execution and product thinking come together** — understanding a problem, building a solution, and improving it through iteration.
+I'm especially interested in technology that can solve real problems and create useful experiences.
 
 ---
-
-<!-- ========================== TECH STACK ======================= -->
 
 <div align="center">
 
@@ -98,51 +59,47 @@ I like working on projects where **technical execution and product thinking come
 <table>
 <tr>
 
-<td align="center" width="50%" valign="top">
+<td align="center" width="50%">
 
 ### 💻 Languages
 
 <br/>
 
-<img
-  src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,c&perline=6"
-  alt="Programming Languages"
-/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,c&perline=6" />
 
-<br/><br/>
+</td>
+
+<td align="center" width="50%">
 
 ### 🌐 Development
 
 <br/>
 
-<img
-  src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,tailwind&perline=7"
-  alt="Web Development"
-/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,tailwind&perline=7" />
 
 </td>
 
-<td align="center" width="50%" valign="top">
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
 
 ### 🤖 AI / Machine Learning
 
 <br/>
 
-<img
-  src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=6"
-  alt="AI and Machine Learning"
-/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=6" />
 
-<br/><br/>
+</td>
+
+<td align="center" width="50%">
 
 ### 🗄️ Database & Tools
 
 <br/>
 
-<img
-  src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase,git,github,vscode,figma,docker&perline=5"
-  alt="Database and Tools"
-/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase,git,github,vscode,figma,docker&perline=5" />
 
 </td>
 
@@ -153,18 +110,16 @@ I like working on projects where **technical execution and product thinking come
 
 ---
 
-<!-- ========================== FOCUS AREAS ====================== -->
-
 <div align="center">
 
-## 🎯 Focus Areas
+## 🎯 Areas of Interest
 
 <table>
 <tr>
 
 <td align="center" width="33%">
 
-### 🤖 Artificial Intelligence
+### 🤖 AI
 
 Machine Learning  
 Computer Vision  
@@ -199,70 +154,49 @@ Problem Solving
 
 ---
 
-<!-- ========================== INTERESTS ======================== -->
+## 🌱 Currently Exploring
 
 <div align="center">
-
-## 🌱 Interests
 
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-6366F1?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/Computer%20Vision-EC4899?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Software%20Engineering-2563EB?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Product%20Development-F59E0B?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Product%20Development-2563EB?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/Automation-10B981?style=flat-square&logoColor=white" />
 
 </div>
 
 ---
 
-<!-- ============================ CONNECT ======================== -->
-
 <div align="center">
 
-## 🌐 Connect With Me
+## 🤝 Connect
 
 <br/>
 
 <a href="https://github.com/sabbirOG">
-  <img
-    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
+<img
+  src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+  alt="GitHub"
+/>
 </a>
 
 <a href="https://www.linkedin.com/in/sabbirahmedmunna">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
+<img
+  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  alt="LinkedIn"
+/>
 </a>
 
-</div>
-
----
-
-<!-- ============================ FOOTER ======================== -->
-
-<div align="center">
-
-<br/>
-
+<a href="mailto:YOUR_EMAIL@example.com">
 <img
-  src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=18&duration=3000&pause=1100&color=6366F1&center=true&vCenter=true&width=650&height=40&lines=Always+learning.;Always+building.;Always+improving."
-  alt="Closing Animation"
+  src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+  alt="Email"
 />
+</a>
 
 <br/><br/>
 
-### Build. Learn. Iterate. 🚀
-
-<br/>
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:EC4899,30:7C3AED,65:2563EB,100:0F172A"
-  width="100%"
-  alt="Footer"
-/>
+**Build · Learn · Improve**
 
 </div>
