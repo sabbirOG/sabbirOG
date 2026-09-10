@@ -1,33 +1,32 @@
 <!-- =========================================================
-     SABBIR AHMED — GITHUB PROFILE README
-     GitHub   : https://github.com/sabbirOG
-     LinkedIn : https://www.linkedin.com/in/sabbirahmedmunna
+     SABBIR AHMED
+     GitHub  : https://github.com/sabbirOG
+     LinkedIn: https://www.linkedin.com/in/sabbirahmedmunna
      ========================================================= -->
 
 <div align="center">
 
-<!-- ============================= -->
-<!--            HEADER             -->
-<!-- ============================= -->
+<!-- ======================= HEADER ======================== -->
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=SABBIR%20AHMED&fontSize=52&fontAlignY=38&fontColor=ffffff&animation=fadeIn&color=0:111827,35:2563EB,70:7C3AED,100:EC4899"
+  src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=SABBIR%20AHMED&fontSize=52&fontAlignY=38&fontColor=FFFFFF&animation=fadeIn&color=0:0F172A,35:2563EB,70:7C3AED,100:EC4899"
   width="100%"
+  alt="Sabbir Ahmed"
 />
 
 <br/>
 
 <img
-  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
-  width="100%"
-  alt="Animated banner"
+  src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/trust%20me.gif"
+  width="220"
+  alt="Trust Me"
 />
 
 <br/><br/>
 
 <img
   src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=22&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=850&height=50&lines=Product+Builder+%7C+AI+%7C+Software+%7C+Robotics;Turning+ideas+into+useful+products;Building%2C+learning%2C+and+shipping;Technology+with+a+purpose"
-  alt="Typing introduction"
+  alt="Typing Introduction"
 />
 
 <br/><br/>
@@ -46,6 +45,13 @@
   />
 </a>
 
+<a href="mailto:YOUR_EMAIL@example.com">
+  <img
+    src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
+
 <br/><br/>
 
 <img
@@ -61,15 +67,17 @@
 
 I'm **Sabbir Ahmed**, a product-minded builder interested in the intersection of **technology, AI, software, and real-world problem solving**.
 
-I enjoy taking ideas from:
+I enjoy taking an idea through the complete journey:
 
 **Problem → Research → Design → Prototype → Build → Iterate → Ship**
 
-I care about more than just writing code. I enjoy understanding the problem, designing a solution, building it, and turning it into something people can actually use.
+I care about both sides of the process:
 
-My main areas of interest include:
+**Building the technology**  
+and  
+**understanding the product behind it.**
 
-`Artificial Intelligence` · `Software` · `Product Development` · `Automation` · `Computer Vision` · `Robotics`
+My interests include **Artificial Intelligence, Machine Learning, Software Engineering, Product Development, Automation, Computer Vision, Robotics, and IoT.**
 
 ---
 
@@ -80,7 +88,7 @@ My main areas of interest include:
 
 <td width="50%" valign="top">
 
-### 🚀 Product Building
+### 🚀 Product
 
 Building practical products around real problems.
 
@@ -96,13 +104,13 @@ Building practical products around real problems.
 
 ### 🤖 Technology
 
-Exploring technologies that turn ideas into working systems.
+Exploring technologies that turn ideas into useful systems.
 
 - Artificial Intelligence
 - Machine Learning
 - Computer Vision
-- Software systems
-- Robotics & automation
+- Automation
+- Robotics & IoT
 
 </td>
 
@@ -122,19 +130,25 @@ Exploring technologies that turn ideas into working systems.
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,c&perline=6" />
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,c&perline=6" alt="Languages"/>
 
 <br/><br/>
 
 ### 🌐 Web & Software
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,tailwind&perline=7" />
+<br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,tailwind&perline=7" alt="Web Technologies"/>
 
 <br/><br/>
 
 ### 🤖 AI / Machine Learning
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&perline=6" />
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&perline=6" alt="AI ML"/>
 
 </td>
 
@@ -142,19 +156,25 @@ Exploring technologies that turn ideas into working systems.
 
 ### 🗄️ Databases / Cloud
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase,vercel&perline=6" />
+<br/>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase,vercel&perline=6" alt="Databases and Cloud"/>
 
 <br/><br/>
 
 ### 🔧 Tools & Hardware
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,arduino&perline=6" />
+<br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,arduino&perline=6" alt="Tools and Hardware"/>
 
 <br/><br/>
 
 ### 📦 Other
 
-<img src="https://skillicons.dev/icons?i=linux,postman,npm&perline=6" />
+<br/>
+
+<img src="https://skillicons.dev/icons?i=linux,postman,npm&perline=6" alt="Other Technologies"/>
 
 </td>
 
@@ -224,19 +244,23 @@ Physical Computing
 <div align="center">
 
 <a href="https://github.com/sabbirOG">
+
 <img
   height="180"
   src="https://github-readme-stats.vercel.app/api?username=sabbirOG&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=14&bg_color=0F172A&title_color=FFFFFF&text_color=CBD5E1&icon_color=6366F1"
   alt="GitHub Statistics"
 />
+
 </a>
 
 <a href="https://github.com/sabbirOG">
+
 <img
   height="180"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirOG&layout=compact&langs_count=8&hide_border=true&border_radius=14&bg_color=0F172A&title_color=FFFFFF&text_color=CBD5E1"
   alt="Top Languages"
 />
+
 </a>
 
 </div>
@@ -248,10 +272,12 @@ Physical Computing
 <div align="center">
 
 <a href="https://github.com/sabbirOG">
+
 <img
   src="https://streak-stats.demolab.com/?user=sabbirOG&hide_border=true&border_radius=14&background=0F172A&ring=6366F1&fire=F59E0B&currStreakLabel=FFFFFF&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF"
   alt="GitHub Contribution Streak"
 />
+
 </a>
 
 </div>
@@ -263,11 +289,13 @@ Physical Computing
 <div align="center">
 
 <a href="https://github.com/sabbirOG">
+
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=sabbirOG&bg_color=0F172A&color=CBD5E1&line=6366F1&point=F59E0B&area=true&hide_border=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=sabbirOG&bg_color=0F172A&color=CBD5E1&line=6366F1&point=F59E0B&area=true&hide_border=true&radius=14"
   width="96%"
   alt="GitHub Contribution Activity"
 />
+
 </a>
 
 </div>
@@ -279,49 +307,98 @@ Physical Computing
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
+
 <img
   src="https://github-profile-trophy.vercel.app/?username=sabbirOG&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=6"
   alt="GitHub Trophies"
 />
+
 </a>
 
 </div>
 
 ---
 
-## 🧠 How I Build
+## 🧠 My Approach
 
 <div align="center">
 
+<table>
+<tr>
+
+<td align="center">
+
+### 01
+
+💡  
+**Identify**
+
+Understand the problem.
+
+</td>
+
+<td align="center">
+
+### 02
+
+🔎  
+**Explore**
+
+Research the possibilities.
+
+</td>
+
+<td align="center">
+
+### 03
+
+🎨  
+**Design**
+
+Shape the solution.
+
+</td>
+
+<td align="center">
+
+### 04
+
+⚙️  
+**Build**
+
+Turn the idea into reality.
+
+</td>
+
+<td align="center">
+
+### 05
+
+🚀  
+**Ship**
+
+Launch, learn, improve.
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🌱 Current Direction
+
+I'm especially interested in projects where **software meets the physical world**.
+
 ```text
-      ┌─────────────┐
-      │   PROBLEM   │
-      └──────┬──────┘
-             ↓
-      ┌─────────────┐
-      │  RESEARCH   │
-      └──────┬──────┘
-             ↓
-      ┌─────────────┐
-      │   DESIGN    │
-      └──────┬──────┘
-             ↓
-      ┌─────────────┐
-      │  PROTOTYPE  │
-      └──────┬──────┘
-             ↓
-      ┌─────────────┐
-      │    BUILD    │
-      └──────┬──────┘
-             ↓
-      ┌─────────────┐
-      │    TEST     │
-      └──────┬──────┘
-             ↓
-      ┌─────────────┐
-      │   ITERATE   │
-      └──────┬──────┘
-             ↓
-      ┌─────────────┐
-      │    SHIP     │
-      └─────────────┘
+AI
+ ↓
+Automation
+ ↓
+Intelligent Software
+ ↓
+Robotics
+ ↓
+Real-World Products
