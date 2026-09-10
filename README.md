@@ -87,68 +87,55 @@ Exploring technologies that can turn ideas into working systems.
 ---
 
 ## Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,c&perline=6" alt="Programming Languages"/>
-</p>
-
-### Web & Software
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,tailwind&perline=7" alt="Web Technologies"/>
-</p>
-
-### AI / Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&perline=6" alt="AI ML"/>
-</p>
-
-### Databases / Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase,vercel&perline=6" alt="Databases and Cloud"/>
-</p>
-
-### Tools & Hardware
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,arduino&perline=6" alt="Tools"/>
-</p>
-
----
-
-## Selected Focus Areas
+## 🛠️ Tech Stack
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td align="center" width="25%">
-<h3>🤖 AI</h3>
-<p>Machine Learning<br/>Computer Vision<br/>Intelligent Systems</p>
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,c&perline=6" />
+</p>
+
+### 🌐 Web & Software
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,tailwind&perline=7" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&perline=6" />
+</p>
+
 </td>
 
-<td align="center" width="25%">
-<h3>💻 Software</h3>
-<p>Web Applications<br/>Backend Systems<br/>Automation</p>
-</td>
+<td width="50%" valign="top">
 
-<td align="center" width="25%">
-<h3>🚀 Product</h3>
-<p>Product Strategy<br/>Prototyping<br/>UX Thinking</p>
-</td>
+### 🗄️ Databases / Cloud
 
-<td align="center" width="25%">
-<h3>🔌 Robotics</h3>
-<p>IoT<br/>Embedded Systems<br/>Physical Computing</p>
-</td>
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase,vercel&perline=6" />
+</p>
 
+### 🔧 Tools & Hardware
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,arduino&perline=6" />
+</p>
+
+### 📦 Other
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,postman,npm&perline=6" />
+</p>
+
+</td>
 </tr>
 </table>
-
----
 
 ## GitHub Statistics
 
